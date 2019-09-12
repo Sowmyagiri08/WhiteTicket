@@ -1,0 +1,32 @@
+TICKET
+Booking ID WQLJQSJ
+Movie KANAA (U)
+
+$iI:::I Dam‘ Tuesday, 01 January, 12:35 PM
+
+Screen, class Screen-1, ELITE
+
+Seat No(s) F9, F3, F7, F6
+
+cinema PALAZZO, 3rd Floor, The Forum Viiaya, #183, NSK Salai, Arcot
+Road, Vadapalani
+
+BILLING
+
+No of Tit:ket(s) 4
+
+Ticket Booking Charge Rs 120 (Rs 30 per Ticket)
+Tit:ketAmount Rs 610.2
+
+3D Glass Usage Fee NIL
+
+Food Items Ordered No
+
+Food TotaIAmount NIL
+
+Donation Amount NIL
+
+Discount NIL
+
+Total Amount Rs 730.2 (Including all Booking Charges)
+Booking Payment Mode Credit/Debit card
